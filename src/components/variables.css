@@ -18,7 +18,10 @@
    * Layout
    * ======================================================================== */
 
-  --max-content-width: 1000px;
+  --max-content-width:  1000px;
+  --padding-basic:      1em;
+  --padding-lg:         1.2em;
+  --padding-sm:         0.8em;
 
   /*
    * Media queries breakpoints
